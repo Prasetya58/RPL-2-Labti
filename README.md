@@ -1,2 +1,2 @@
-# RPL2LABTI7
-Tugas LABTI Pertemuan 7
+# Ujian RPL 2
+Disini terdapat 1 Folder Project dengan nama "Databarang2"
